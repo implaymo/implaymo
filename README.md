@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, JavaScript**.
 
-- ⚡ Fun fact **I used to be a professional Call Of Dutty:Warzone professional player.**
+- ⚡ Fun fact **I used to be a professional *'Call Of Dutty: Warzone'* professional player.**
 
 <div style="display: flex; align-items: flex-start;">
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=implaymo">
