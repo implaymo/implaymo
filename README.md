@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a website game called Cat Game to learn more about Java and JavaScript.](https://github.com/implaymo/Cat-Game-Wesbite-)
 
-- 🌱 I’m currently learning **Java, JavaScript**
+- 🌱 I’m currently learning **Java, JavaScript**.
 
 - ⚡ Fun fact **I used to be a professional Call Of Dutty:Warzone professional player.**
 
