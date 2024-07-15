@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=implaymo&label=Profile%20views&color=0e75b6&style=flat" alt="implaymo" /> </p>
 
-- 🔭 I’m currently working on [a website game called Cat Game to learn more about Java and JavaScript.](https://github.com/implaymo/Cat-Game-Wesbite-)
-
-- 🌱 I’m currently learning **Java, JavaScript**.
-
-- ⚡ Fun fact **I used to be a professional *'Call Of Dutty: Warzone'* professional player.**
-
 <div style="display: flex; align-items: flex-start;">
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=implaymo">
     <img src="https://stats.quira.sh/implaymo/github?theme=dark" alt="implaymo's GitHub | Stats" />
