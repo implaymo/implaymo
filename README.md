@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Playmo</h1>
 <h3 align="center">A passionate aspiring programmer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=implaymo&label=Profile%20views&color=0e75b6&style=flat" alt="implaymo" /> </p>
 
 <div style="display: flex; align-items: flex-start;">
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=implaymo">
