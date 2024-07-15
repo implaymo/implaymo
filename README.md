@@ -9,8 +9,12 @@
 
 - ⚡ Fun fact **I used to be a professional Call Of Dutty:Warzone professional player.**
 
-[![implaymo's GitHub | Stats](https://stats.quira.sh/implaymo/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=implaymo) <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=implaymo&show_icons=true&locale=en&layout=compact" alt="implaymo" /></p>
-[![implaymo's GitHub | Languages Over Time](https://stats.quira.sh/implaymo/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=implaymo)
+<div style="display: flex; align-items: flex-start;">
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=implaymo">
+    <img src="https://stats.quira.sh/implaymo/github?theme=dark" alt="implaymo's GitHub | Stats" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=implaymo&show_icons=true&locale=en&layout=compact" alt="implaymo" style="margin-left: 10px;" />
+</div>
 
 
 
